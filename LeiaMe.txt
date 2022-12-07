@@ -1,0 +1,5 @@
+Nome: Ronald Mateus Jeses Florencio de Almeida
+Título: DoeAqui: Sistema Web para localizar centros de arrecadação
+Resumo: A Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional indica que, em 2022, a insegurança alimentar grave atingiu 15,5% da população brasileira, ou seja, 33,1 milhões de pessoas. Levando esse fato em consideração, este trabalho aplica conceitos de mapeamento regional, para facilitar o acesso e localização de pontos de arrecadação e distribuição de alimentos. Para isso, foi desenvolvido um website, que localiza os pontos de doação mais próximos do usuário e facilita o gerenciamento do estoque das doações. Desse modo, pessoas que estão dispostas a doar podem encontrar um local próximo, assim como, os produtos que o local necessita receber e aqueles que serão beneficiados podem se dirigir ao centro mais perto. O sistema apresentou resultados positivos, mostrou-se eficiente na localização e no gerenciamento do ponto de doação. Palavras-chave: Doação; Mapeamento; Sistema Web; Fome.
+Orientador: Andreiwid Sheffer Correa
+Mês/Ano: Dezembro de 2022
